@@ -11,6 +11,20 @@ Quantum Bot is a personal AI assistant that integrates with the Toss Invest API 
 
 ---
 
+## 🎯 Target Portfolio
+
+The bot targets the 5 core quantum computing companies below, infinitely maintaining the "golden ratio" (Target Weight) set by the user.
+
+*   🔵 **IONQ (IonQ)** - 35%
+*   🔵 **INFQ (Infleqtion)** - 25%
+*   🔵 **QBTS (D-Wave Quantum)** - 15%
+*   🔵 **RGTI (Rigetti Computing)** - 15%
+*   🔵 **QUBT (Quantum Computing Inc)** - 10%
+
+*(The target weights can be freely adjusted anytime in `config.py`.)*
+
+---
+
 ## 🌟 Core Features
 
 1. **Virtual Wallet-Based Midnight Rebalancing**: Every midnight (KST), it automatically buys and sells stocks to match your preset target weights. By introducing a **Virtual Wallet System**, it maintains the account's cash balance at $0 while perfectly preventing portfolio asset deflation by recording and storing the fractional dollar remainders caused by decimal trading limits.
