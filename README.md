@@ -1,5 +1,7 @@
 # 🤖 Quantum Bot (양자컴퓨터 AI 퀀트 자동매매 봇)
 
+[English](README_EN.md) | [한국어](README.md)
+
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Toss API](https://img.shields.io/badge/Toss_Invest-Open_API-0050FF.svg)
