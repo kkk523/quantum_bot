@@ -1,4 +1,4 @@
-# 🤖 Quantum Bot (AI Quant Auto-Trading Bot)
+# 🤖 Quantum Bot (Algorithmic Quant Auto-Trading Bot)
 
 [English](README_EN.md) | [한국어](README.md)
 
@@ -7,7 +7,7 @@
 ![Toss API](https://img.shields.io/badge/Toss_Invest-Open_API-0050FF.svg)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0.svg)
 
-Quantum Bot is a personal AI assistant that integrates with the Toss Invest API and Telegram to automatically manage the portfolio weight of **5 US quantum computing stocks**. It analyzes buy/sell timings using Wall Street-level quantitative algorithms.
+Quantum Bot is a personal quant trading bot that integrates with the Toss Invest API and Telegram to automatically manage the portfolio weight of **5 US quantum computing stocks**. It analyzes buy/sell timings using Wall Street-level quantitative algorithms.
 
 ---
 

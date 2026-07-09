@@ -1,4 +1,4 @@
-# 🤖 Quantum Bot (양자컴퓨터 AI 퀀트 자동매매 봇)
+# 🤖 Quantum Bot (양자컴퓨터 알고리즘 퀀트 자동매매 봇)
 
 [English](README_EN.md) | [한국어](README.md)
 
@@ -7,7 +7,7 @@
 ![Toss API](https://img.shields.io/badge/Toss_Invest-Open_API-0050FF.svg)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0.svg)
 
-Quantum Bot은 토스증권 API와 텔레그램을 연동하여, **양자컴퓨터 관련 미국 주식 5종목**의 비중을 자동으로 관리하고 월스트리트 수준의 퀀트 알고리즘으로 매수/매도 타이밍을 분석해주는 개인용 인공지능 비서입니다.
+Quantum Bot은 토스증권 API와 텔레그램을 연동하여, **양자컴퓨터 관련 미국 주식 5종목**의 비중을 자동으로 관리하고 월스트리트 수준의 퀀트 알고리즘으로 매수/매도 타이밍을 분석해주는 개인용 퀀트 트레이딩 봇입니다.
 
 ---
 
